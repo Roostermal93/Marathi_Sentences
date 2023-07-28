@@ -1,0 +1,37 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "11bb508e-2f1b-4c8d-a7fb-3c66b9446f1c",
+            "collectionId": "Marathi",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5d4ded51-9906-49d4-986f-9a917747b3f3",
+            "collectionId": "Marathi",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "bfa74de7-44d2-4af2-9562-1b4521959e6b",
+            "collectionId": "Marathi",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c5556c5e-754e-4b95-81da-fc84358f6859",
+            "collectionId": "Marathi",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d001e78e-2b0c-4fd6-b8b1-333f01faab3f",
+            "collectionId": "Marathi",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
